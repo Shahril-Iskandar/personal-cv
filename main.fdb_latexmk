@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695823721 "c:/Users/14000/OneDrive - Nanyang Technological University/Documents/GitHub Repositories/personal-cv/main.tex" "main.pdf" "main" 1695823723 0
+["pdflatex"] 1695874914 "c:/Users/14000/OneDrive - Nanyang Technological University/Documents/GitHub Repositories/personal-cv/main.tex" "main.pdf" "main" 1695874916 0
   "C:/Users/14000/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1695125670 160965 c5247e857312679dde5443f19131f3fb ""
   "C:/Users/14000/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695123466 24142077 f3800d58caa792c8ab9d296791df8b33 ""
   "C:/Users/14000/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463869852 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -199,18 +199,18 @@
   "C:/Users/14000/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/14000/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/14000/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/14000/OneDrive - Nanyang Technological University/Documents/GitHub Repositories/personal-cv/main.tex" 1695823719 1208 7d1491f4921d5347502a1cbc9af43786 ""
-  "main.aux" 1695823722 2183 7ed43643efccc4cb6ac6d80aedf45491 "pdflatex"
-  "main.out" 1695823722 833 0b0dc0f194e36f8f266768e1a33dfe2c "pdflatex"
-  "main.tex" 1695823719 1208 7d1491f4921d5347502a1cbc9af43786 ""
+  "c:/Users/14000/OneDrive - Nanyang Technological University/Documents/GitHub Repositories/personal-cv/main.tex" 1695874912 1208 7d1491f4921d5347502a1cbc9af43786 ""
+  "main.aux" 1695874915 2183 c28a720d5bb07a27c2cd0d3c514a240f "pdflatex"
+  "main.out" 1695874915 833 0b0dc0f194e36f8f266768e1a33dfe2c "pdflatex"
+  "main.tex" 1695874912 1208 7d1491f4921d5347502a1cbc9af43786 ""
   "mypreamble.sty" 1695125386 4176 140f0e9cfcfdcd7f5750e975dbf426a0 ""
   "sections/awards.tex" 1695125581 1058 d33e50b301112dc9af926a64170c6ac1 ""
   "sections/conference_presentations.tex" 1695125563 2234 0d764a3e6ee3fe69d382709790b42bd5 ""
   "sections/education.tex" 1695125552 1294 9c04b48aced09e6ad804d6d220e4ebe6 ""
   "sections/heading.tex" 1695125543 992 a9a038c0ba486633f602ccbdea1e6070 ""
   "sections/membership.tex" 1695125530 263 63c892e3c125e72926c41c008c51c281 ""
-  "sections/publications.tex" 1695783235 4022 25a94d2208d44a0e8288557b94360b62 ""
-  "sections/research_experience.tex" 1695823719 8264 de6224518f4a5357df01f4932b2c029c ""
+  "sections/publications.tex" 1695874912 4851 19cc515357f7a9527361482bf70c1730 ""
+  "sections/research_experience.tex" 1695874912 8264 ba8d212827d06592c110c9e33c8a35d8 ""
   "sections/skills.tex" 1695125620 592 6e565613173610c0a7ce0c70fcbcb570 ""
   (generated)
   "main.aux"
