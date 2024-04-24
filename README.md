@@ -5,4 +5,4 @@ You may view the final output at [main.pdf](https://github.com/Shahril-Iskandar/
 
 You may download the CV in pdf to click on external and internal links. 
 
-CV last updated: 1 March 2024
+CV last updated: 23 April 2024
