@@ -1,8 +1,8 @@
 # personal-cv
 
-This repository contains my academic Curriculum Vitae (CV) using LaTeX, inspired by another [template](https://github.com/arasgungore/arasgungore-CV), with some modications.
+This repository contains my academic Curriculum Vitae (CV) using LaTeX, inspired this -> [template](https://github.com/arasgungore/arasgungore-CV), with some of my own modications.
 You may view the final output at [main.pdf](https://github.com/Shahril-Iskandar/personal-cv/blob/main/main.pdf).
 
-You may download the CV in PDF to click on external and internal links. 
+External and internal links in the PDF can only be clicked after downloading.
 
-CV content last updated: 4 May 2024
+CV content last updated: 31 Jan 2025
