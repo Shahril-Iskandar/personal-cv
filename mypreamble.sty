@@ -159,3 +159,19 @@
       \parbox[t]{0.87\textwidth}{\small#1} & \small#2 \\
       \end{tabular*}
 }
+
+\newcommand{\layoutCommunity}[4]{
+  \vspace{-2pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \parbox[t]{0.9\textwidth}{{#1}} & \small #2 \\
+    \multicolumn{2}{l}{\textit{\small #3}} \\
+    \multicolumn{2}{p{0.97\textwidth}}{\small #4} \\
+  \end{tabular*}\vspace{-3pt}
+}
+
+\newcommand{\layoutTeaching}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \parbox[t]{0.9\textwidth}{#1} & \small#2 \\
+    \end{tabular*}\vspace{-3pt}
+}
